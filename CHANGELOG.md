@@ -1,3 +1,7 @@
+## 4.11.1 (2024-02-15)
+
+- Upgrade `http` version
+
 ## 4.11.0 (2023-06-19)
 
 - Upgrade `dio` version
